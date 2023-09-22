@@ -1,0 +1,3 @@
+Distance: 1, Frequency: 1
+Distance: 2, Frequency: 3158
+Distance: 3, Frequency: 1791

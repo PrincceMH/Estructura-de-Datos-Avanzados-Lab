@@ -1,0 +1,2 @@
+Distance: 12, Frequency: 2964
+Distance: 13, Frequency: 1986

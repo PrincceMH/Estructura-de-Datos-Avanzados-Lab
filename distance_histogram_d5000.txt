@@ -1,0 +1,3 @@
+Distance: 27, Frequency: 1
+Distance: 28, Frequency: 3476
+Distance: 29, Frequency: 1473

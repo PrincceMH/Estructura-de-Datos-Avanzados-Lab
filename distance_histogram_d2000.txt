@@ -1,0 +1,3 @@
+Distance: 17, Frequency: 634
+Distance: 18, Frequency: 4308
+Distance: 19, Frequency: 8
